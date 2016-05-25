@@ -1,0 +1,75 @@
+.post-title{
+  font-size: x-large;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #757575;
+  color: #757575;
+}
+.post{
+  border-bottom: 1px solid #757575;
+  padding: 10px 0;
+}
+.post-body {
+  padding: 15px 0;
+}
+.comments{
+  border-bottom: 1px solid #757575;
+  padding: 10px;
+}
+.comments h4{
+  font-size: medium;
+  padding: 5px;
+  background-color: #757575;
+  color: #fff;
+  margin-bottom: 10px;
+}
+.comments h4:hover {
+  background-color: #fff;
+  color: #757575;
+}
+.comments-content {
+  box-shadow: #757575 0px 1px 1px;
+  padding: 10px;
+}
+.comments .comment-block {
+  border-bottom: 1px solid #757575;
+  padding: 10px 0;
+}
+.post-footer-line-2{
+  background-color: #757575;
+  padding: 10px;
+}
+.post-labels{
+  padding: 0 20px;
+  color: #fff !important;
+}
+.post-labels a{
+  color: #fff;
+}
+#Jehad_share {
+margin: 5px 0;
+padding: 0;
+}
+#Jehad_share li a{
+    text-decoration:none;
+    color:#ff0000;
+}
+#Jehad_share li {
+    list-style:none;
+    float:left;
+    display:block;
+    transition: all 0.5s ease;
+    margin-left: 5px;
+ }
+#Jehad_share li:hover {opacity:.2;}
+#Jehad_share li a img {
+    width:24px;
+    height:24px;
+    margin-left:2px;
+}
+#Jehad_share li,#Jehad_share li a img {
+    border:0 !important;
+    box-shadow:0 !important;
+    background:none !important;
+    padding:0 !important;
+}
